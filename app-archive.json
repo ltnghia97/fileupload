@@ -5,6 +5,7 @@
     {
       "version": "0.1.8",
       "shortVersion": 9,
+      "description":"windows description",
       "changes": [
         {
           "type": "chore",
