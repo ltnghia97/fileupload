@@ -25,7 +25,7 @@
     },
     {
       "version": "0.1.7",
-      "shortVersion": 9,
+      "shortVersion": 8,
       "changes": [
         {
           "type": "chore",
@@ -41,7 +41,7 @@
       ],
       "date": "2025-01-10",
       "mandatory": true,
-      "url": "https://raw.githubusercontent.com/ltnghia97/fileupload/refs/heads/main/1.0.0%2B7-macos",
+      "url": "https://www.yourwebsite.com/archive/desktop_updater/0.1.6%2B7-macos",
       "platform": "macos"
     }
   ]
